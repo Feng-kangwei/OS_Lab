@@ -1,14 +1,13 @@
 # OS_Lab
-20240420| Lab code for operating system 
 
-Disk Scheduling 
-https://lnkd.in/eKeMEQ2
-
-CPU Scheduling
+Lab1 CPU Scheduling
 https://lnkd.in/eYKX2_M
 
-Memory Allocation
+Lab2 Memory Allocation
 https://lnkd.in/e8TrWyy
 
-Virtual Memory Allocation
+Lab3 Virtual Memory Allocation
 https://lnkd.in/ebyfjQD
+
+Lab4 Disk Scheduling 
+https://lnkd.in/eKeMEQ2
